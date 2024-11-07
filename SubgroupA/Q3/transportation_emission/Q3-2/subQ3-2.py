@@ -5,7 +5,7 @@ import pandas as pd
 import requests
 
 
-API='AIzaSyCcsxYeAZosGeKlXZmUNF1bWNXwQ7MPU3g'
+API='######################'
 gmaps=googlemaps.Client(key=API)
 
 #Input
