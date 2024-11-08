@@ -1,6 +1,6 @@
 # ML Data Processing Workflow
 
-This document describes the data processing workflow based on the dataset “Energy_and_Water_Data_Disclosure,” which includes parts of the NYC data but with a broader range of data points. Initial manual filtering was conducted to remove irrelevant, redundant, and region-specific columns. Additionally, energy data was standardized by converting totals per area or unit into standard units (e.g., kBtu/ft², kWh/ft², therms/ft²) to facilitate readability and alignment with conversion factors.
+This document describes the data processing flow based on the “Energy and Water Data Disclosure” dataset. Based on the data we collected from various sources, we first manually screened and removed irrelevant, redundant, and region-specific columns. In addition, the energy data was standardized by converting the total amount of each region or unit to a standard unit (e.g., kiloBTUs/sq. ft., kWh/sq. ft., BTUs/sq. ft.) to improve readability and comply with conversion factors.
 
 ## Data Preparation Steps
 
