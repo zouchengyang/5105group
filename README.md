@@ -32,7 +32,7 @@ Together, these two subgroups are working to make our GHG emissions calculator a
 
 
 ## Carbon Emissions Calculator Overview
-[Carbon Emissions Calculator Overview](https://github.com/zouchengyang/5105group/blob/main/index.html)
+
 - **Standardized Calculator**: Calculates total carbon emissions based on user inputs.
 - **Prediction Calculator**: Predicts emissions using a machine learning model.
 
@@ -62,7 +62,7 @@ This application has been designed to deliver the best visual and interactive ex
    git clone <repository_url>
    cd <repository_folder>
    ```
-2. Open the `index.html` file in a browser.
+2. Open the `index.html` file in a browser.[index.html](https://github.com/zouchengyang/5105group/blob/main/index.html)
 
 - **Backend API**
 1. Navigate to the `5105_ml` folder.
