@@ -1,0 +1,1304 @@
+body, html {
+    margin: 0;
+    padding: 0;
+ 
+
+}
+
+
+ 
+
+
+
+#nav td:hover {
+    background-color: lightblue;
+    border-radius: 15px;
+}
+.nav1:hover {
+    background-color: lightblue;
+    border-radius: 15px;
+}
+.n2 {
+    background-color: #f78e1e;
+    font-weight: bold;
+    white-space: nowrap;
+    font-size:7px;
+    cursor: pointer;
+    border-radius: 4px;
+    color:white;
+    width: 35%;
+    height: 15%;
+
+
+}
+
+ 
+.xian {
+    border: 1px solid whitesmoke;
+
+}
+.dark-image {
+    filter: brightness(0.6);
+}
+.n1 {
+    color: black;
+    font-size: 27px;
+
+
+}
+
+.nn1 {
+    color: black;
+    font-size: 22px;
+
+
+}
+.n2:hover {
+    background-color: #e67e00;
+
+}
+.change-color:hover {
+    color:black;
+    cursor: pointer;
+}
+.my-svg:hover {
+    cursor: pointer;
+    fill: black;
+    stroke: black;
+}
+.custom-colour {
+color: #f78e1e;
+}
+
+.custom-background-colour {
+background-color: #f78e1e;
+}
+.n3 {
+    background-color: #f78e1e;
+    font-weight: bold;
+    white-space: nowrap;
+    font-size:7px;
+    cursor: pointer;
+
+    color:white;
+    width: 25%;
+    height: 10%;
+
+
+}
+
+.n3:hover {
+    background-color:black;
+
+}
+.n4:hover {
+    background-color:black;
+
+}
+.n4 {
+    background-color: #fc008e;
+    font-weight: bold;
+    white-space: nowrap;
+    font-size:7px;
+    cursor: pointer;
+
+    color:white;
+    width: 10%;
+    height: 10%;
+
+
+}
+
+.navbar{
+    background:black;color: white;opacity: 93%;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+.main1{
+    position: relative;  height: 600px;
+}
+.main2{
+    position: absolute;background: white;width: 500px; height: 400px;top: 70%;left: 70%;border-radius: 4px; border-bottom: 6px solid #f78e1e;
+}
+.mian3{
+    position: absolute; top: 15% ;left: 15%;font-weight: bold;
+}
+.main4{
+    position: absolute;font-weight: lighter;top: 40%;left: 13%;
+}
+.main5{
+    position: absolute;font-weight: lighter;top: 45%;left: 32%;
+}
+.main6{
+    position: absolute;top: 70%;left: 60%;text-align: center;
+}
+
+.main666{
+    position: absolute;top: 70%;left: 9%;text-align: center;
+}
+.main2_1{
+    padding: 170px 57px;margin-bottom: 86px;padding-bottom: 29px;
+}
+.hr2{
+    border-color: #CCCCCC;
+}
+
+.hr{
+    border-color: #f78e1e
+;
+    width: 30%;
+}
+
+.main3_1{
+    position: relative; padding-bottom: 115px;
+}
+.main3_2{
+    height: 15%;position: relative;left: 7%;width: 45%
+}
+.main3_3{
+    position: absolute;background: white;width: 40%; height: 55%;top: 40%;left: 78%;border-radius: 4px;
+}
+.main3_4{
+    position: absolute; top: 8% ;font-weight: bold; font-size: 16px;
+}
+.main3_5{
+    position: absolute; top: 10% ;font-weight: bold; font-size: 37px;
+}
+.main3_6{
+    position: absolute; top: 34% ; font-size: 16px;
+}
+.main3_7{
+    position: absolute;top: 54%;text-align: center;
+}
+.main3_8{
+    position: absolute;background: white;width: 50%; height: 35%;top: 80%;left: 60%;border-radius: 4px; border: 1px solid #000000;border-top: 4px solid #fc008e;padding: 20px;
+}
+.main3_9{
+    position: absolute; top: 15% ;left: 12%;font-weight: bold
+}
+.main3_10{
+    position: absolute;font-weight: lighter;top: 48%;left:  12%
+}
+.main3_11{
+    position: absolute;top: 57%;left: 12%;width: 55%;height: 10%
+}
+.main3_12{
+    position: absolute;top: 65%;left: 68%;text-align: center;
+}
+
+.main4_1{
+    padding: 170px 57px;margin-bottom: 86px;padding-bottom: 29px
+}
+
+.footer{
+    color: white;text-align: center;
+}
+
+.tanchuang1{
+    background: white;width: 32%; display: none;position: fixed; top: 15%;left:32%;z-index: 959;padding: 30px;border: 1px ;
+}
+.tanchuang2{
+    position: absolute;left: 90%;top: 1%
+}
+.tanchuang3{
+    position: absolute;left: 30%
+}
+.tanchuang4{
+    position: absolute;left: 85%
+}
+.tanchuang5{
+    position: absolute;left: 30%;top: 17%
+
+}
+.tanchuang6{
+    position: absolute;left: 30%;top: 22%
+}
+.tanchuang7{
+    position: absolute;left: 30% ;top: 30%
+}
+.tanchuang8{
+    position: absolute;left: 30%;top: 35%
+}
+.tanchuang9{
+    position: absolute;left: 80%
+}
+
+.custom-coloura_and_background{
+    background: black;
+    color:  #f7931e;
+
+}
+
+.custom-coloura_and_background2{
+    background: #f7931e;
+    color: white;
+
+}
+
+.duibi{
+    background-color:  #f7931e;
+    color: white;
+}
+.duibi2{
+    color: black;
+    background: #f7931e;
+}
+
+
+.clalute1{
+    position: absolute;width: 100%; height: 100%;border-radius: 4px; padding: 20px;
+}
+.clalute2{
+    position: absolute;top: 10% ; left: 10%;
+}
+.clalute3{
+    position: absolute; top: 15% ;left: 60%;font-weight: bold;
+}
+.clalute4{
+    position: absolute; top: 28.5%;left: 50%;
+}
+.clalute5{
+    position: absolute; top: 28.5%;left: 77%
+}
+.clalute6{
+    position: absolute;font-weight: bold;top: 27%;left: 48%;
+}
+.clalute7{
+    background: #fc008e; position: absolute;top: 27%;left: 52%;width: 25%;height: 10%;
+}
+.clalute8{
+    position: absolute; top: 38.5%;left: 50%;
+}
+.clalute9{
+    position: absolute; top: 38.5%;left: 77%;
+}
+.clalute10{
+    position: absolute;font-weight: bold;top: 37%;left: 48%;
+}
+.clalute11{
+    background: #fc008e; position: absolute;top: 37%;left: 52%;width: 25%;height: 10% ;
+}
+.clalute12{
+    position: absolute; top: 48.5%;left: 50%;
+}
+.clalute13{
+    position: absolute; top: 48.5%;left: 77%;
+}
+.clalute14{
+    position: absolute;font-weight: bold;top: 47%;left: 48%;
+}
+.clalute15{
+    background: #fc008e; position: absolute;top: 47%;left: 52%;width: 25%;height: 10% ;
+}
+
+.t1{
+    position: absolute;width: 100%; height: 100%;border-radius: 4px; padding: 20px; display: none
+}
+.food1{
+    position: absolute;width: 100%; height: 100%;border-radius: 4px; padding: 20px; display: none
+}
+.c1{
+    position: absolute;width: 100%; height: 100%;border-radius: 4px; padding: 20px; display: none
+}
+
+.see-details-btn {
+    background-color: #f78e1e; /* 按钮的黄色背景颜色 */
+    border: none; /* 去掉默认的边框 */
+    color: white; /* 文字颜色 */
+    padding: 12px 24px; /* 按钮的内边距 */
+    text-align: center; /* 文字居中 */
+    text-decoration: none; /* 去掉下划线 */
+    display: inline-block; /* 让按钮可以按行显示 */
+    font-size: 18px; /* 文字的大小 */
+    font-weight: bold; /* 文字加粗 */
+    border-radius: 5px; /* 圆角效果 */
+    cursor: pointer; /* 鼠标移到按钮上显示手形 */
+    transition: background-color 0.3s; /* 鼠标悬停时背景色过渡效果 */
+}
+
+/* 鼠标悬停时的效果 */
+.see-details-btn:hover {
+    background-color: #f7931e; /* 改变按钮的背景色 */
+}
+
+
+
+
+ 
+
+
+        #water-calculator {
+            width: 100%;
+            height: 100vh;
+            background-image: url('water1.webp');
+            background-size: cover;
+            background-position: top center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-repeat: no-repeat; 
+            position: relative;
+            transition: transform 0.6s ease, opacity 0.6s ease; /* 滑动动画和淡入淡出动画 */
+     
+            
+        }
+   
+        .calculator-content {
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 40px;
+            border-radius: 10px;
+            text-align: center;
+            width: 80%;
+            max-width: 600px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+      
+         
+        }
+
+       
+
+
+        h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        #water-slider {
+            -webkit-appearance: none;  /* 移除默认样式 */
+            width: 100%;
+            margin: 20px 0;
+            height: 10px;
+            border-radius: 5px;
+            outline: none;
+            background: linear-gradient(to right, #fdd49b 0%, #f78e1e 50%, white 50%); /* 默认的渐变效果 */
+        }
+        #water-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 20px;
+            height: 20px;
+            background-color: #f78e1e;
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+        }
+        #water-slider::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            background-color: #f78e1e;
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+        }
+
+
+         
+ 
+
+
+ 
+
+
+
+
+
+            
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        #water-output {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        #waste-output {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        #ele-output {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        #tra-output {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        #area-output {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        #people-output {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+        #ele-calculator {
+            width: 100%;
+            height: 100vh;
+            background-image: url('electric.webp');
+            background-size: cover;
+            background-position: top center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-repeat: no-repeat; 
+        }
+
+        #waste1-calculator {
+            width: 100%;
+            height: 100vh;
+            background-image: url('waste.webp');
+            background-size: cover;
+            background-position: top center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-repeat: no-repeat; 
+        }
+
+        #tr-calculator {
+            width: 100%;
+            height: 100vh;
+            background-image: url('gas.webp');
+            background-size: cover;
+            background-position: top center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-repeat: no-repeat; 
+        }
+
+        #area-calculator {
+            width: 100%;
+            height: 100vh;
+            background-image: url('area.webp');
+            background-size: cover;
+            background-position: top center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-repeat: no-repeat; 
+        }
+
+
+
+        #second-calculatorr {
+            width: 100%;
+            height: 100vh;
+            background-image: url('area.webp');
+            background-size: cover;
+            background-position: top center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-repeat: no-repeat; 
+        }
+
+
+
+
+
+
+
+        .previous-button {
+            position: absolute;
+            left: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 50px;
+            height: 50px;
+            background-color: #f7931e;
+            border: none;
+            border-radius: 50%;
+            font-size: 24px;
+            color: #333;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+
+
+     
+
+          .subit-button {
+            position: absolute; /* 绝对定位按钮 */
+            bottom: 25%;/* 距离页面底部 10% */
+            left: 50%; /* 水平方向居中 */
+            transform: translateX(-50%); /* 水平居中 */
+            padding: 15px 30px; /* 增加按钮的内边距，使按钮变大 */
+            font-size: 18px; /* 增大字体 */
+            background-color: #f7931e; /* 背景色为橙色 */
+            color: white; /* 文字颜色为白色 */
+            border: none; /* 移除边框 */
+            border-radius: 5px; /* 轻微圆角 */
+            cursor: pointer; /* 鼠标悬停时显示手型 */
+            display: flex; /* 使用 flexbox 布局 */
+            justify-content: center; /* 水平居中对齐 */
+            align-items: center; /* 垂直居中对齐 */
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* 添加阴影效果 */
+            transition: background-color 0.3s; /* 悬停时背景平滑过渡 */
+          }
+          
+        .subit-button:hover {
+            background-color: #afaca9;
+          }
+        /* 右按钮样式（>按钮） */
+        .next-button {
+            position: absolute;
+            right: 40px; 
+            top: 50%;
+            transform: translateY(-50%);
+            width: 50px;
+            height: 50px;
+            background-color: #f7931e;
+            border: none;
+            border-radius: 50%;
+            font-size: 24px;
+            color: #333;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        button:hover {
+            background-color: #afaca9;
+        }
+
+ 
+     
+
+
+
+
+
+
+        .elecalculator-content {
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 40px;
+            border-radius: 10px;
+            text-align: center;
+            width: 80%;
+            max-width: 600px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            transition: opacity 0.5s ease;
+        }
+
+        #ele-slider {
+            -webkit-appearance: none; 
+            width: 100%;
+            margin: 20px 0;
+            height: 10px;
+            border-radius: 5px;
+            outline: none;
+            background: linear-gradient(to right, #fdd49b 0%, #f78e1e 50%, white 50%); /* 默认的渐变效果 */
+        }
+        #ele-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 20px;
+            height: 20px;
+            background-color: #f78e1e;
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+        }
+        #ele-slider::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            background-color: #f78e1e;
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+        }
+
+
+
+        #Final_calculator-container{
+            position: relative;
+            width: 100%;
+            /* 如果需要，可以设置固定高度，或者让内容决定高度 */
+        }
+        
+        /* 计算器公共样式 */
+        .calculator {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+            opacity: 0;
+            transform: translateX(100%);
+            pointer-events: none; /* 禁用交互 */
+        }
+        
+        /* 活动的计算器 */
+        .calculator.active {
+            opacity: 1;
+            transform: translateX(0);
+            pointer-events: auto; /* 启用交互 */
+             
+        }
+ 
+
+
+        
+
+
+        section {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            transition: transform 0.5s ease-in-out;
+        }
+        
+        /* 主页部分 - 初始状态可见 */
+        #home-section {
+            background-color: #f0f0f0; /* 根据需要调整 */
+            transform: translateX(0); /* 位于视口内 */
+            z-index: 2; /* 确保在顶部 */
+        }
+        
+        /* 计算器部分 - 初始状态隐藏在右侧 */
+        #calculator-section {
+            background-color: #ffffff; /* 根据需要调整 */
+            transform: translateX(100%); /* 位于视口右侧外 */
+            z-index: 1; /* 在主页部分下方 */
+        }
+        
+        /* 当添加 .active 类时，计算器部分滑入视口 */
+        #calculator-section.active {
+            transform: translateX(0);
+        }
+
+        #second_calculator-section {
+            transform: translateX(100%); /* 位于视口右侧外 */
+            z-index: 1; /* 在主页部分下方 */
+            width: 100%; /* 确保 section 占满视口宽度 */
+            min-height: 100vh; /* 确保 section 填充整个视口高度 */
+            background-color: #f9f9f9; /* 背景颜色保持一致 */
+            display: flex;
+            flex-direction: column;
+            justify-content: center; /* 垂直居中内容 */
+            align-items: center; /* 水平居中内容 */
+        }
+        
+        /* 当添加 .active 类时，计算器部分滑入视口 */
+        #second_calculator-section.active {
+            transform: translateX(0);
+        }
+
+
+        
+        /* 当主页部分添加 .out 类时，滑出视口左侧 */
+        #home-section.out {
+            transform: translateX(-100%);
+        }
+
+        #calculatorSection.out {
+            transform: translateX(-100%);
+        }
+
+
+        #res-section{
+            background-color: #ffffff; /* 根据需要调整 */
+            transform: translateX(100%); /* 位于视口右侧外 */
+            z-index: 1; /* 在主页部分下方 */
+        }
+        #res-section.active {
+            transform: translateX(0);
+        }
+
+
+
+
+
+
+
+         /* 上传文件 */
+         .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 125%;
+            background: rgba(0, 0, 0, 0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .upload-div {
+            position: relative;
+            background: #fff;
+            padding: 30px;
+            border-radius: 12px;
+            text-align: center;
+            width: 400px;
+            border: 5px solid #f78e1e;
+            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        .upload-div h2 {
+            margin-bottom: 20px;
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            cursor: pointer;
+            font-size: 24px;
+            background: none;
+            border: none;
+            color: #f78e1e;
+            font-weight: bold;
+        }
+
+        .file-input {
+            margin-top: 10px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            width: 100%;
+        }
+
+        .submit-btn, .download-btn {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #f78e1e;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .submit-btn:hover, .download-btn:hover {
+            background-color: #e07b18;
+        }
+
+        .error-message {
+            color: red;
+            margin-top: 10px;
+        }
+        /* 上传文件 */
+
+
+
+
+
+
+/* secton3 */
+.s3background-section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('121.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: white;
+    font-size: 24px;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+.button-group {
+    position: absolute;
+    top: 7%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 20px;
+    z-index: 1;
+}
+
+.toggle-btn {
+    padding: 20px 80px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #f78e1e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.toggle-btn.active {
+    background-color: #ffcc99; /* 按钮被选中时变浅色 */
+    color: black;
+}
+
+.toggle-btn:hover {
+    background-color: #e07b18;
+}
+
+ 
+
+
+
+
+
+.content.active {
+    display: block;
+}
+
+.chart-container {
+    width: 100%;
+    height: 300px;
+}
+
+.text-content {
+    line-height: 1.6;
+}
+/* secton3 */
+
+.submit-button {
+    display: block;
+    margin: 20px auto 0;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .submit-button:hover {
+    background-color: darkorange;
+  }
+
+
+
+
+  #waste1-slider {
+    -webkit-appearance: none; 
+    width: 100%;
+    margin: 20px 0;
+    height: 10px;
+    border-radius: 5px;
+    outline: none;
+    background: linear-gradient(to right, #fdd49b 0%, #f78e1e 50%, white 50%); /* 默认的渐变效果 */
+}
+#waste1-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    background-color: #f78e1e;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
+#waste1-slider::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    background-color: #f78e1e;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
+
+
+#tr-slider {
+    -webkit-appearance: none; 
+    width: 100%;
+    margin: 20px 0;
+    height: 10px;
+    border-radius: 5px;
+    outline: none;
+    background: linear-gradient(to right, #fdd49b 0%, #f78e1e 50%, white 50%); /* 默认的渐变效果 */
+}
+#tr-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    background-color: #f78e1e;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
+#tr-slider::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    background-color: #f78e1e;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
+
+
+#area-slider {
+    -webkit-appearance: none; 
+    width: 100%;
+    margin: 20px 0;
+    height: 10px;
+    border-radius: 5px;
+    outline: none;
+    background: linear-gradient(to right, #fdd49b 0%, #f78e1e 50%, white 50%); /* 默认的渐变效果 */
+}
+#area-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    background-color: #f78e1e;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
+#area-slider::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    background-color: #f78e1e;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+#people-slider {
+    -webkit-appearance: none; 
+    width: 100%;
+    margin: 20px 0;
+    height: 10px;
+    border-radius: 5px;
+    outline: none;
+    background: linear-gradient(to right, #fdd49b 0%, #f78e1e 50%, white 50%); /* 默认的渐变效果 */
+}
+#people-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    background-color: #f78e1e;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
+#people-slider::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    background-color: #f78e1e;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+
+
+.chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%; /* 缩小整个图表容器的宽度 */
+    margin: 0 auto; /* 水平居中 */
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.chart-container-wrapper canvas {
+    margin: 25px auto; /* 增加图表之间的垂直间距并居中 */
+    width: 100%; /* 将图表的宽度扩展到容器的100% */
+    height: 400px; /* 增加图表的高度 */
+}
+
+
+.content1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    width: 80%;
+    margin: 13vh auto 0 auto; /* 上边距设置为视窗高度的1% */
+}
+
+.content1 canvas {
+    margin: 20px 0; /* 增加图表之间的垂直间距 */
+    max-width: 70%; /* 将每个图表的宽度缩小到容器的70% */
+    max-height: 240px; /* 将图表的最大高度减少到240px */
+}
+
+
+.content {
+    display: none;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    width: 60%; /* 控制宽度 */
+    max-width: 800px; /* 最大宽度 */
+    margin: 13vh auto 0 auto; /* 水平居中 */
+    margin-top: 20px; /* 距离顶部的间距 */
+}
+
+
+/* 导航栏样式 */
+#navbar1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #000; /* 黑色背景 */
+    border-radius: 0; /* 去掉圆角 */
+    width: 100%; /* 确保导航栏铺满宽度 */
+    position: fixed; /* 固定在顶部 */
+    top: 0; /* 距顶部 0 */
+    left: 0; /* 距左侧 0 */
+    z-index: 1000; /* 确保导航栏始终在最上层 */
+}
+
+#navbar1 svg {
+    fill: #F4A261; /* 橙色 */
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+
+#navbar1 button {
+    padding: 10px 20px;
+    border: 1px solid #F4A261; /* 橙色边框 */
+    border-radius: 5px;
+    background-color: #F4A261;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#navbar1 button:hover {
+    background-color: white;
+    color: #F4A261;
+}
+
+/* 计算器内容样式 */
+#calculator-content1 {
+    width: 90%; /* 宽度为视口的 90% */
+    max-width: 600px; /* 限制最大宽度 */
+    padding: 20px;
+    background-color: #ffffff; /* 白色背景 */
+    border-radius: 20px 20px 0 0; /* 上方圆角 */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* 轻微阴影效果 */
+}
+
+/* 标题样式 */
+#calculator-content1 h2 {
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+}
+
+/* 输入框样式 */
+ 
+
+/* 输入框和标签容器样式 */
+#calculator-content1 label {
+    display: flex; /* 使用 flex 布局 */
+    flex-direction: column; /* 垂直排列 */
+    align-items: center; /* 水平居中 */
+    width: 100%; /* 标签宽度为 100% */
+    margin-bottom: 15px; /* 每个标签和输入框之间的间距 */
+}
+
+/* 输入框样式 */
+#calculator-content1 input {
+    width: calc(100% - 40px); /* 宽度相对于父容器，去掉左右间距 */
+    max-width: 400px; /* 限制最大宽度 */
+    padding: 10px;
+    border: 1px solid #F4A261; /* 橙色边框 */
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 5px; /* 与标签的间距 */
+    box-sizing: border-box; /* 包括内边距和边框在内计算宽度 */
+}
+
+
+/* 按钮样式 */
+#submit-button1 {
+    display: block; /* 确保是块级元素，用于对齐 */
+    width: calc(100% - 40px); /* 宽度与输入框一致 */
+    max-width: 400px; /* 限制最大宽度 */
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #F4A261;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 20px auto; /* 上下间距，水平居中 */
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#submit-button1:hover {
+    background-color: #e68a50;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+/* 弹窗内容样式 */
+.popup-content {
+    background: #fff;
+    padding: 25px;
+    border-radius: 12px;
+    width: 400px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: 1px solid #f0ad4e;
+    position: relative; /* 让关闭按钮相对定位 */
+}
+/* 关闭按钮 */
+.close-popup-btn {
+    background: transparent;
+    color: #f0ad4e;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.close-popup-btn:hover {
+    color: #d9534f;
+}
+/* 标题样式 */
+.popup-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #f0ad4e;
+    margin-bottom: 20px;
+}
+/* 按钮样式 */
+.popup-action-btn {
+    background: #f0ad4e;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    margin: 10px 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.popup-action-btn:hover {
+    background: #d9534f;
+}
+/* 文件输入框样式 */
+#fileUploader {
+    margin-top: 10px;
+    padding: 6px;
+    width: calc(100% - 20px);
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+}
