@@ -32,7 +32,7 @@ Together, these two subgroups are working to make our GHG emissions calculator a
 
 
 ## Carbon Emissions Calculator Overview
-
+[Carbon Emissions Calculator Overview](https://github.com/zouchengyang/5105group/blob/main/index.html)
 - **Standardized Calculator**: Calculates total carbon emissions based on user inputs.
 - **Prediction Calculator**: Predicts emissions using a machine learning model.
 
