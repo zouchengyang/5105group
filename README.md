@@ -80,7 +80,7 @@ This application has been designed to deliver the best visual and interactive ex
 - **Connecting Frontend and Backend**
 Update the API endpoint in `script.js` to match the local backend server, e.g., `http://127.0.0.1:5000`.
 
-### OPENA I API
+### OPENAI API
 Key Security and Backup Program Description：
   Although I have encrypted the OpenAI API key, the project requires the code to be uploaded to GitHub, and since GitHub is a public platform, even 
   though the key is encrypted, there is still a possibility that OpenAI's automated scanning system will detect the key and treat it as a leak, which could 
