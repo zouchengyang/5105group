@@ -56,6 +56,16 @@ Due to differences in screen resolution and scaling settings across devices, use
 ### Connecting Frontend and Backend
 Update the API endpoint in `script.js` to match the local backend server, e.g., `http://127.0.0.1:5000`.
 
+### OPENA I API
+Key Security and Backup Program Description：
+  Although I have encrypted the OpenAI API key, the project requires the code to be uploaded to GitHub, and since GitHub is a public platform, even 
+  though the key is encrypted, there is still a possibility that OpenAI's automated scanning system will detect the key and treat it as a leak, which could 
+  result in the key being revoked.To address this potential problem, I have placed an alternate key in the Google Doc. This alternate key is only used in emergency situations, such as 
+  when the reports section of a front-end web page displays “No Data Fetch”, you can follow the steps below to replace the key in the JavaScript file 
+  to ensure that the feature works properly
+  
+https://docs.google.com/document/d/1t5dLr-_05mcakdf8fZ-jpFWaSNDTKdL3lv9-nJvT9F8/edit?usp=sharing
+
 ## How to Use
 1. Input data manually or upload a CSV file.
 2. View the results:
