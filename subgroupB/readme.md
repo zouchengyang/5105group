@@ -33,12 +33,8 @@ This application has been designed to deliver the best visual and interactive ex
 Due to differences in screen resolution and scaling settings across devices, users may need to manually adjust the browser zoom level for optimal display. For a 24-inch 1080p monitor, a zoom level of 90% is recommended.
 
 ### Frontend
-1. Clone the repository:
-   ```sh
-   git clone <repository_url>
-   cd <repository_folder>
-   ```
-2. Open the `index.html` file in a browser.
+  Navigate to the following GitHub path: 5105group/subgroupB. Download and extract the file named "510_Front-end_website_implementation.zip".
+  After extracting, open the index.html file to view the front-end interface. Follow the steps below to demonstrate the API functionality as part of the presentation.
 
 ### Backend API
 1. Navigate to the `5105_ml` folder.
