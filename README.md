@@ -65,13 +65,13 @@ This application has been designed to deliver the best visual and interactive ex
 2. Open the `index.html` file in a browser.[index.html](https://github.com/zouchengyang/5105group/blob/main/index.html)
 
 - **Backend API**
-1. Navigate to the `5105_ml` folder.
+1. Navigate to the `5105group/subgroupB/demofinal/5105ML` folder.(Download it to your computer and unzip it all)
 2. Install required dependencies:
    ```sh
    pip install flask
    pip install flask-cors
    ```
-3. Start the local API server:
+3. Start the local API server: cmd CD 5105ML/5105ML
    ```sh
    python app.py
    ```
