@@ -57,12 +57,8 @@ This application has been designed to deliver the best visual and interactive ex
 
 ### Setup Instructions
 - **Frontend**
-1. Clone the repository:
-   ```sh
-   git clone <repository_url>
-   cd <repository_folder>
-   ```
-2. Open the `index.html` file in a browser.[index.html](https://github.com/zouchengyang/5105group/blob/main/index.html)
+  Navigate to the following GitHub path: 5105group/subgroupB. Download and extract the file named "510_Front-end_website_implementation.zip".
+  After extracting, open the index.html file to view the front-end interface. Follow the steps below to demonstrate the API functionality as part of the presentation.
 
 - **Backend API**
 1. Navigate to the `5105group/subgroupB/demofinal/5105ML` folder.(Download it to your computer and unzip it all)
