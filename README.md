@@ -61,7 +61,7 @@ This application has been designed to deliver the best visual and interactive ex
   After extracting, open the index.html file to view the front-end interface. Follow the steps below to demonstrate the API functionality as part of the presentation.
 
 - **Backend API**
-1. Navigate to the `5105group/subgroupB/demofinal/5105ML` folder.(Download it to your computer and unzip it all)
+1. Navigate to the `5105group/subgroupB/demofinal` folder.(Download "5105ML" to your computer and unzip it all)
 2. Install required dependencies:
    ```sh
    pip install flask
